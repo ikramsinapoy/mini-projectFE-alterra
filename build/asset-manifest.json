@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1733772c.chunk.css",
+    "main.js": "/static/js/main.e24882c0.chunk.js",
+    "main.js.map": "/static/js/main.e24882c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ce3e672e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ce3e672e.js.map",
+    "static/css/2.ba7be3b0.chunk.css": "/static/css/2.ba7be3b0.chunk.css",
+    "static/js/2.3f6ace8d.chunk.js": "/static/js/2.3f6ace8d.chunk.js",
+    "static/js/2.3f6ace8d.chunk.js.map": "/static/js/2.3f6ace8d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ba7be3b0.chunk.css.map": "/static/css/2.ba7be3b0.chunk.css.map",
+    "static/css/main.1733772c.chunk.css.map": "/static/css/main.1733772c.chunk.css.map",
+    "static/js/2.3f6ace8d.chunk.js.LICENSE.txt": "/static/js/2.3f6ace8d.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/Home.module.css": "/static/media/background.cd1d868b.jpg",
+    "static/media/brooke-lark-M4E7X3z80PQ-unsplash.f561d10e.jpg": "/static/media/brooke-lark-M4E7X3z80PQ-unsplash.f561d10e.jpg",
+    "static/media/completed.4b5de15f.svg": "/static/media/completed.4b5de15f.svg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/fire.42950d92.svg": "/static/media/fire.42950d92.svg",
+    "static/media/homebackground.6415c782.jpg": "/static/media/homebackground.6415c782.jpg",
+    "static/media/krystel-heddy-GUAxf0tMcKU-unsplash.6aa3cd64.jpg": "/static/media/krystel-heddy-GUAxf0tMcKU-unsplash.6aa3cd64.jpg",
+    "static/media/lily-banse--YHSwy6uqvk-unsplash.b2762b4c.jpg": "/static/media/lily-banse--YHSwy6uqvk-unsplash.b2762b4c.jpg",
+    "static/media/lukas-bee-RnnCdg63KBY-unsplash.027edc5e.jpg": "/static/media/lukas-bee-RnnCdg63KBY-unsplash.027edc5e.jpg",
+    "static/media/maps.cfcd5672.svg": "/static/media/maps.cfcd5672.svg",
+    "static/media/minus.b27d311b.svg": "/static/media/minus.b27d311b.svg",
+    "static/media/plus.6e61cd21.svg": "/static/media/plus.6e61cd21.svg",
+    "static/media/trolley.08f577cc.svg": "/static/media/trolley.08f577cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce3e672e.js",
+    "static/css/2.ba7be3b0.chunk.css",
+    "static/js/2.3f6ace8d.chunk.js",
+    "static/css/main.1733772c.chunk.css",
+    "static/js/main.e24882c0.chunk.js"
+  ]
+}
